@@ -1,0 +1,190 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin:0;
+    line-height:1.5;
+}
+
+/* Image */
+.image{
+    background: url('../images/indulge\ \(1\).jpg') no-repeat 0  -200px ;
+    background-size:cover  ;
+    min-height: 540px;
+}
+
+
+#title{
+    color:#fff;
+}
+
+.title-info{
+    text-align:left;
+    padding:10% 0 7% 0;
+    margin:0;
+   
+ }
+
+ .title-btn{
+
+ }
+
+/* Navbar */
+.navbar-brand{
+    font-weight: bold;
+    font-size: 4rem;
+    font-family: 'Sacramento', cursive;
+    
+}
+
+.nav-item{
+    padding:0 0.5rem;
+    
+}
+.navbar a:hover{
+    color:#ef8172;
+}
+
+.nav-link{
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#fff;
+}
+
+
+
+/* About */
+
+#About{
+    padding:4% 15%;
+    text-align:center;
+    line-height: 2;
+    
+    
+}
+
+.about-heading{
+    margin-bottom:5%;
+    font-size:3rem;
+}
+
+.about-info{
+    font-size:1rem;
+}
+
+.about-button{
+  margin-top:3%;
+}
+
+
+/* Menu */
+
+#Menu{
+    padding: 7% 15%;
+    background-color: lightgray;
+    line-height: 2;
+}
+.menu-info p{
+    margin-top:5%;
+}
+
+.menu-info img{
+    margin-bottom:5%;
+}
+
+.menu-image{
+    width:70%;
+    border-radius:100%;
+   
+}
+
+/* Local */
+
+#Local{
+    background-color: #ef8172;
+    text-align:center;
+    color: #fff;
+    
+}
+.carousel-item{
+    padding:7% 20%;
+}
+.local-image{
+    width:15%;
+    border-radius:100%;
+    margin-right:2rem;
+}
+.local-text{
+    font-size:2rem;
+    line-height: 1.5;
+}
+
+/* making */
+
+#Making{
+    padding:7% 15%;
+}
+
+.making-info{
+    line-height:1.5;
+    font-size:2.5;
+    padding: 5% 3% 0 5%;
+}
+
+.making-image{
+    width:100%;
+    border-radius:100%;
+    
+
+}
+
+.making-button{
+    margin:5% 3% 5% 0;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width:50px;
+}
+
+/* contact */
+
+#Contact{
+  margin: 2%;
+    
+}
+
+.contact-details{
+    width:33.3%;
+    
+}
+
+.contact-info{
+    background-color: #fff
+    
+}
+
+.contact-email{
+    background-color: rgb(196, 207, 204);
+}
+
+
+.contact-image{
+    width:100%;
+    
+
+}
+.form-details{
+    padding:5%;
+}
+.form-button{
+    margin:5% 2% 2% 7%;;
+}
+
+#footer{
+    padding: 7% 15%;
+    text-align:center;
+    background-color: #ef8172;
+}
